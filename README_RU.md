@@ -50,45 +50,54 @@
 
 #### **Совет**: Если вы подключите BitBall к своему роутеру, вам не придется каждый раз подключаться к Wi-Fi BitBall.club. Просто перейдите на [www.bitball.club](https://bitball.club), и вы сразу окажетесь в игре. + вы сможете сохранять результаты ствоих тренерово, соревноваться с другими людьми в онлайн и много других плюшек.
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png" width="300px">
-
 
 ## Схема подключения
 ### Простая
 NodeMUC ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px">
 
 Wemos ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 
 ### Продвинутая :)
 NodeMCU ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px">
 
 Wemos ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 
 ## Компоненты
 
-![IMAGE ALT TEXT HERE](https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png)
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" width="300px">
+
 
 https://www.aliexpress.com/item/1005004893349830.html
+
 https://www.aliexpress.com/item/1005006293517345.html
+
 https://www.aliexpress.com/item/32556525207.html
+
 https://www.aliexpress.com/item/1005002060362335.html
+
 https://www.aliexpress.com/item/4000977316378.html
+
 https://www.aliexpress.com/item/1005002367815544.html
+
 https://www.aliexpress.com/item/1005005898038310.html
 
 
 
 # For Advanced Users: Instructions for Flashing via Programmer
 
-## Web installer (recommended)
+### Web installer (recommended)
 
-## Go to the web installer and follow instructions.
+### Go to the web installer and follow instructions.
 
 ## [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
 

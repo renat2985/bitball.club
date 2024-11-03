@@ -50,33 +50,44 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 
 #### **Tip**: If you connect BitBall to your router, you won’t need to reconnect to BitBall.club Wi-Fi each time. Simply visit [www.bitball.club](https://bitball.club), and you’ll enter the game instantly. Plus, you’ll be able to save your training results, compete with others online, and enjoy various other features.
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png" width="300px">
 
 ## Wiring Diagrams
 
 ### Basic
 NodeMUC ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px">
 
 Wemos ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Advanced
-NodeMCU ESP8266  
+NodeMCU ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px">
 
 Wemos ESP8266
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 ## Components
-![Components](https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png)
+
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" width="300px">
+
 
 https://www.aliexpress.com/item/1005004893349830.html
+
 https://www.aliexpress.com/item/1005006293517345.html
+
 https://www.aliexpress.com/item/32556525207.html
+
 https://www.aliexpress.com/item/1005002060362335.html
+
 https://www.aliexpress.com/item/4000977316378.html
+
 https://www.aliexpress.com/item/1005002367815544.html
+
 https://www.aliexpress.com/item/1005005898038310.html
 
 
@@ -85,9 +96,9 @@ https://www.aliexpress.com/item/1005005898038310.html
 
 ## Web installer (recommended)
 
-## Go to the web installer and follow instructions.
+### Go to the web installer and follow instructions.
 
-## [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
+### [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
 
 
 Specification of [bitball.build.bin](https://github.com/renat2985/bitball.club/raw/main/build/esp8266.esp8266.generic/bitball.build.bin) file
