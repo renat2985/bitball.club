@@ -1,3 +1,5 @@
+[🇷🇺 Русская версия документации здесь](https://github.com/renat2985/bitball.club/blob/main/README_RU.md)
+
 # Smart Box Ball Based on ESP8266
 
 ![Smart Box Ball](https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png)
@@ -40,31 +42,31 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 1. Turn on the BitBall device.
 2. Connect to Wi-Fi:
    - Select the BitBall.club network.
-   ![Wi-Fi Connection](https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png)
+   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="300px">
 
 3. Access the game through a browser:
    - Open a browser and enter the address: `http://192.168.4.1`.
-   ![Browser Access](https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif)
+   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
 
 #### **Tip**: If you connect BitBall to your router, you won’t need to reconnect to BitBall.club Wi-Fi each time. Simply visit [www.bitball.club](https://bitball.club), and you’ll enter the game instantly. Plus, you’ll be able to save your training results, compete with others online, and enjoy various other features.
 
-![BitBall](https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png)
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png" width="300px">
 
 ## Wiring Diagrams
 
 ### Basic
-NodeMCU ESP8266  
-![Basic NodeMCU Schematic](https://github.com/renat2985/bitball.club/blob/main/doc/schematicEasy.png)
+NodeMUC ESP8266
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px">
 
-Wemos ESP8266  
-![Basic Wemos Schematic](https://github.com/renat2985/bitball.club/blob/main/doc/schematicWemosEasy.png)
+Wemos ESP8266
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Advanced
 NodeMCU ESP8266  
-![Advanced NodeMCU Schematic](https://github.com/renat2985/bitball.club/blob/main/doc/schematic.png)
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px">
 
-Wemos ESP8266  
-![Advanced Wemos Schematic](https://github.com/renat2985/bitball.club/blob/main/doc/schematicWemos.png)
+Wemos ESP8266
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 ## Components
 ![Components](https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png)

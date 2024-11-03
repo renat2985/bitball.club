@@ -1,5 +1,3 @@
-[🇷🇺 Русская версия документации здесь](https://github.com/renat2985/bitball.club/blob/main/README_RU.md)
-
 # Умный Box Ball на базе ESP8266
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png" width="300px">
@@ -43,11 +41,11 @@
 1. Включите устройство BitBall.
 2. Подключитесь к Wi-Fi:
    - Выберите сеть BitBall.club.
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="300px">
+   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="300px">
 
 3. Доступ к игре через браузер:
    - Откройте браузер и введите адрес: `http://192.168.4.1`.
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
+   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
 
 
 #### **Совет**: Если вы подключите BitBall к своему роутеру, вам не придется каждый раз подключаться к Wi-Fi BitBall.club. Просто перейдите на [www.bitball.club](https://bitball.club), и вы сразу окажетесь в игре. + вы сможете сохранять результаты ствоих тренерово, соревноваться с другими людьми в онлайн и много других плюшек.
@@ -58,18 +56,18 @@
 ## Схема подключения
 ### Простая
 NodeMUC ESP8266
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematicEasy.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px">
 
 Wemos ESP8266
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematicWemosEasy.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 
 ### Продвинутая :)
 NodeMCU ESP8266
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px">
 
 Wemos ESP8266
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematicWemos.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 
 ## Компоненты
