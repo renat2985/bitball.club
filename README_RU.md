@@ -93,20 +93,6 @@ https://www.aliexpress.com/item/1005005898038310.html
 ## [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
 
 
-Specification of [bitball.build.bin](https://github.com/renat2985/bitball.club/raw/main/build/esp8266.esp8266.generic/bitball.build.bin) file
-```
-  -  Module: Generic ESP8266 Module
-  -  Flash Size: 1M
-  -  CPU Frequency: 80Mhz
-  -  Flash Mode: DOUT
-  -  Flash Frequency: 40Mhz
-  -  Upload Speed: 921600
-```
-
-### NodeMCU Flasher
-https://github.com/nodemcu/nodemcu-flasher
-Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe) or [Win64](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe).
-
 ## :battery: Donation
 
 If you like this project, you can buy me a cup of coffee :coffee:
