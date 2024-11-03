@@ -48,28 +48,19 @@
    <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
 
 
-#### **Совет**: Если вы подключите BitBall к своему роутеру, вам не придется каждый раз подключаться к Wi-Fi BitBall.club. Просто перейдите на [www.bitball.club](https://bitball.club), и вы сразу окажетесь в игре. + вы сможете сохранять результаты ствоих тренерово, соревноваться с другими людьми в онлайн и много других плюшек.
+#### **Совет**: Если вы подключите BitBall к своему роутеру, вам не придется каждый раз подключаться к Wi-Fi BitBall.club. Просто перейдите на [www.bitball.club](https://www.bitball.club), и вы сразу окажетесь в игре. + вы сможете сохранять результаты ствоих тренерово, соревноваться с другими людьми в онлайн и много других плюшек.
 
 
 ## Схема подключения
 ### Простая
-NodeMUC ESP8266
+NodeMUC ESP8266, Wemos ESP8266
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
-Wemos ESP8266
+### Продвинутая
+NodeMCU ESP8266, Wemos ESP8266
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
-
-
-### Продвинутая :)
-NodeMCU ESP8266
-
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px">
-
-Wemos ESP8266
-
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 
 ## Компоненты

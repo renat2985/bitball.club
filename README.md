@@ -4,7 +4,7 @@
 
 ![Smart Box Ball](https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png)
 
-This is an advanced version of the classic elastic ball game (Box Ball), designed to improve coordination, reaction speed, and agility. Unlike a standard ball, our device is equipped with smart electronics based on the ESP8266 microcontroller (NodeMCU). It can track the number of hits, measure hit force, and enable online competition via the [bitball.club](https://bitball.club) website with other users who have similar devices. Players can also track their progress in real-time.
+This is an advanced version of the classic elastic ball game (Box Ball), designed to improve coordination, reaction speed, and agility. Unlike a standard ball, our device is equipped with smart electronics based on the ESP8266 microcontroller (NodeMCU). It can track the number of hits, measure hit force, and enable online competition via the [bitball.club](https://www.bitball.club) website with other users who have similar devices. Players can also track their progress in real-time.
 
 ## Key Features
 - **Hit Tracking**: The device uses built-in sensors to accurately record every hit on the ball.
@@ -54,22 +54,14 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 ## Wiring Diagrams
 
 ### Basic
-NodeMUC ESP8266
+NodeMUC ESP8266, Wemos ESP8266
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px">
-
-Wemos ESP8266
-
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Advanced
-NodeMCU ESP8266
+NodeMCU ESP8266, Wemos ESP8266
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px">
-
-Wemos ESP8266
-
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 ## Components
 
