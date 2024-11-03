@@ -55,7 +55,7 @@
 ### Простая
 NodeMUC ESP8266, Wemos ESP8266
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Продвинутая
 NodeMCU ESP8266, Wemos ESP8266
