@@ -41,11 +41,13 @@
 1. Включите устройство BitBall.
 2. Подключитесь к Wi-Fi:
    - Выберите сеть BitBall.club.
-   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="300px">
+
+    <img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="200px">
 
 3. Доступ к игре через браузер:
    - Откройте браузер и введите адрес: `http://192.168.4.1`.
-   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
+
+    <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
 
 
 #### **Совет**: Если вы подключите BitBall к своему роутеру, вам не придется каждый раз подключаться к Wi-Fi BitBall.club. Просто перейдите на [www.bitball.club](https://www.bitball.club), и вы сразу окажетесь в игре. + вы сможете сохранять результаты ствоих тренерово, соревноваться с другими людьми в онлайн и много других плюшек.
@@ -65,8 +67,9 @@ NodeMCU ESP8266, Wemos ESP8266
 
 ## Компоненты
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
 
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px">
 
 https://www.aliexpress.com/item/1005004893349830.html
 

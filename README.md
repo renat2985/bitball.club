@@ -42,11 +42,13 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 1. Turn on the BitBall device.
 2. Connect to Wi-Fi:
    - Select the BitBall.club network.
-   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="300px">
+
+    <img src="https://github.com/renat2985/bitball.club/blob/main/doc/WiFi.png" width="200px">
 
 3. Access the game through a browser:
    - Open a browser and enter the address: `http://192.168.4.1`.
-   <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
+
+    <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
 
 #### **Tip**: If you connect BitBall to your router, you won’t need to reconnect to BitBall.club Wi-Fi each time. Simply visit [www.bitball.club](https://bitball.club), and you’ll enter the game instantly. Plus, you’ll be able to save your training results, compete with others online, and enjoy various other features.
 
@@ -65,8 +67,9 @@ NodeMCU ESP8266, Wemos ESP8266
 
 ## Components
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" width="300px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
 
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px">
 
 https://www.aliexpress.com/item/1005004893349830.html
 
