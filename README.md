@@ -65,11 +65,13 @@ NodeMCU ESP8266, Wemos ESP8266
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
+## STL (3d print folder)
+
+<img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
+
 ## Components
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
-
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px
 
 https://www.aliexpress.com/item/1005004893349830.html
 
@@ -98,6 +100,6 @@ https://www.aliexpress.com/item/1005005898038310.html
 
 If you like this project, you can buy me a cup of coffee :coffee:
 
-<img src="https://github.com/renat2985/toncoin_payment/blob/main/doc/donate.png" width="700px">
+<img src="https://github.com/renat2985/renat2985/raw/main/donate/donate.png" width="100%">
 
 - PayPal [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
