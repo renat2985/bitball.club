@@ -66,6 +66,7 @@ NodeMCU ESP8266, Wemos ESP8266
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
 ## STL (3d print folder)
+This backing is essential for the correct operation of the weight sensor; without it, false triggers may occur. It’s important that the internal part of the scale does not come into contact with the forehead or any other surfaces.
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
 

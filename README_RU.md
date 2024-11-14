@@ -66,6 +66,7 @@ NodeMCU ESP8266, Wemos ESP8266
 
 
 ## STL (3d print папка)
+Эта подложка необходима для корректной работы датчика веса; без неё возможны ложные срабатывания. Важно, чтобы внутренняя часть весов не соприкасалась с лбом или другими поверхностями.
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
 
