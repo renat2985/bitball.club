@@ -76,23 +76,26 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px">
 
-https://www.aliexpress.com/item/1005004893349830.html
 
-https://www.aliexpress.com/item/1005006293517345.html
+## From AliExpress.com
 
-https://www.aliexpress.com/item/32556525207.html
+<sup>https://www.aliexpress.com/item/1005004893349830.html - NodeMCU ESP8266</sup>
 
-https://www.aliexpress.com/item/1005002060362335.html
+<sup>https://www.aliexpress.com/item/1005006293517345.html - Weight Sensors + HX711</sup>
 
-https://www.aliexpress.com/item/4000977316378.html
+<sup>https://www.aliexpress.com/item/32556525207.html - ULN2003A</sup>
 
-https://www.aliexpress.com/item/1005002367815544.html
+<sup>https://www.aliexpress.com/item/1005002060362335.html - Nylon Elastic Band</sup>
 
-https://www.aliexpress.com/item/1005005898038310.html
+<sup>https://www.aliexpress.com/item/4000977316378.html - Elastic Band Round</sup>
+
+<sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank (for 18650 Battery) </sup>
+
+<sup>https://www.aliexpress.com/item/1005005898038310.html - Head Straps Headband</sup>
 
 
 
-# Web installer (recommended)
+## 🚀 Web installer (recommended)
 
 ### Go to the web installer and follow instructions.
 
