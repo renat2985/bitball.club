@@ -1,6 +1,6 @@
 [🇷🇺 Русская версия документации здесь](https://github.com/renat2985/bitball.club/blob/main/README_RU.md)
 
-# Smart Box Ball Based on ESP8266
+# Smart Fight Ball (Box Ball) Based on ESP8266
 
 <a href="https://www.youtube.com/watch?v=ykzgbnOf2mE&list=PL6NJTNxbvy-JwHCaki6eOuAYkdLQA4lqW&pp=gAQB"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball3.png"></a>
 
