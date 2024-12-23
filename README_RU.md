@@ -1,6 +1,6 @@
 # Умный Box Ball на базе ESP8266
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball2.png" width="300px">
+<a href="https://www.youtube.com/watch?v=ykzgbnOf2mE&list=PL6NJTNxbvy-JwHCaki6eOuAYkdLQA4lqW&pp=gAQB"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball3.png" width="300px"></a>
 
 Это усовершенствованная версия классической игры с мячом на резинке (Box Ball), которая направлена на развитие координации, скорости реакции и ловкости. В отличие от стандартного мячика, наша разработка оснащена умной электроникой на базе микроконтроллера ESP8266 (NodeMCU), что позволяет вести учет количества ударов, измерять силу удара и соревноваться по интернету через сайт [bitball.club](https://bitball.club) с другими пользователями, у которых есть такие же устройства. Также можно отслеживать прогресс игрока в реальном времени.
 
