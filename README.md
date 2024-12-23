@@ -2,7 +2,7 @@
 
 # Smart Box Ball Based on ESP8266
 
-<a href="https://www.youtube.com/watch?v=ykzgbnOf2mE&list=PL6NJTNxbvy-JwHCaki6eOuAYkdLQA4lqW&pp=gAQB"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball3.png" width="300px"></a>
+<a href="https://www.youtube.com/watch?v=ykzgbnOf2mE&list=PL6NJTNxbvy-JwHCaki6eOuAYkdLQA4lqW&pp=gAQB"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball3.png"></a>
 
 This is an advanced version of the classic elastic ball game (Box Ball), designed to improve coordination, reaction speed, and agility. Unlike a standard ball, our device is equipped with smart electronics based on the ESP8266 microcontroller (NodeMCU). It can track the number of hits, measure hit force, and enable online competition via the [bitball.club](https://www.bitball.club) website with other users who have similar devices. Players can also track their progress in real-time.
 
