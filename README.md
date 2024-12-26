@@ -54,6 +54,13 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 
 #### **Tip**: If you connect BitBall to your router, you won’t need to reconnect to BitBall.club Wi-Fi each time. Simply visit [www.bitball.club](https://bitball.club), and you’ll enter the game instantly. Plus, you’ll be able to save your training results, compete with others online, and enjoy various other features.
 
+## HTTP and Security
+
+Our device uses WebSocket without SSL, which makes it incompatible with HTTPS. As a result, we had to keep the domain accessible via HTTP only.
+However, this does not affect your security in any way, as the site does not require passwords or any other sensitive information.
+
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/security.gif" width="500px">
+
 
 ## Wiring Diagrams
 
