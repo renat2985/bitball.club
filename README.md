@@ -56,7 +56,8 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 
 ## HTTP and Security
 
-Our device uses WebSocket without SSL, which makes it incompatible with HTTPS. As a result, we had to keep the domain accessible via HTTP only.
+Our device uses WebSocket without SSL, which makes it incompatible with HTTPS. As a result, we had to keep the [www.bitball.club](https://www.bitball.club) accessible via HTTP only.
+
 However, this does not affect your security in any way, as the site does not require passwords or any other sensitive information.
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/security.gif" width="500px">
