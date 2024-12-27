@@ -4,9 +4,9 @@
 
 <a href="https://www.youtube.com/watch?v=Eb2ycZCe_rk&list=PL6NJTNxbvy-JwHCaki6eOuAYkdLQA4lqW"><img src="https://github.com/renat2985/bitball.club/blob/main/doc/bitball3.png"></a>
 
-This is an advanced version of the classic elastic ball game (Box Ball), designed to improve coordination, reaction speed, and agility. Unlike a standard ball, our device is equipped with smart electronics based on the ESP8266 microcontroller (NodeMCU). It can track the number of hits, measure hit force, and enable online competition via the [bitball.club](https://www.bitball.club) website with other users who have similar devices. Players can also track their progress in real-time.
+This is an advanced version of the classic elastic ball game (Box Ball), designed to improve coordination, reaction speed, and agility. Unlike a standard ball, our device is equipped with smart electronics based on the ESP8266 microcontroller (NodeMCU). It can track the number of hits, measure hit force, and enable online competition via the [bitball.club](http://www.bitball.club) website with other users who have similar devices. Players can also track their progress in real-time.
 
-You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.com/invite/zaGaDuGe).
+You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.gg/3986vwEdf5).
 
 ## Key Features
 - **Hit Tracking**: The device uses built-in sensors to accurately record every hit on the ball.
@@ -14,17 +14,13 @@ You can build the device yourself or ask us to do it for you. To order a ready-m
 - **Wi-Fi Connectivity**: The device connects to Wi-Fi, allowing players to save training results in the cloud and participate in online tournaments.
 - **Flexible Training Settings**: Users can set training durations and other parameters, tailoring the device to personal goals.
 - **Feedback System**: Sound or light alerts help signal training completion or motivate users to improve their results.
-- **Online Competitions**: Players can compete in real-time with others via [bitball.club](https://bitball.club), compare results, and elevate their training.
+- **Online Competitions**: Players can compete in real-time with others via [bitball.club](http://bitball.club), compare results, and elevate their training.
 
 ## Benefits
 - **Interactivity**: Training becomes more engaging and interactive thanks to automatic counting, hit force measurement, and instant feedback.
 - **Real-Time Competitions**: Users can compete with others globally, making training even more exciting.
 
 Our smart Box Ball is not just an elastic ball—it’s a high-tech training device that lets you set goals, track progress, measure hit force, and reach new heights in coordination and reaction training.
-
-## Contact Information
-
-You can assemble the device yourself or request a pre-assembled one. To order a ready-made device, contact me via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.com/invite/zaGaDuGe).
 
 ## Instructions
 
@@ -52,11 +48,11 @@ You can assemble the device yourself or request a pre-assembled one. To order a 
 
       <img src="https://github.com/renat2985/bitball.club/blob/main/doc/AP.gif" width="300px">
 
-#### **Tip**: If you connect BitBall to your router, you won’t need to reconnect to BitBall.club Wi-Fi each time. Simply visit [www.bitball.club](https://bitball.club), and you’ll enter the game instantly. Plus, you’ll be able to save your training results, compete with others online, and enjoy various other features.
+#### **Tip**: If you connect BitBall to your router, you won’t need to reconnect to BitBall.club Wi-Fi each time. Simply visit [www.bitball.club](http://bitball.club), and you’ll enter the game instantly. Plus, you’ll be able to save your training results, compete with others online, and enjoy various other features.
 
 ## HTTP and Security
 
-Our device uses WebSocket without SSL, which makes it incompatible with HTTPS. As a result, we had to keep the [www.bitball.club](https://www.bitball.club) accessible via HTTP only.
+Our device uses WebSocket without SSL, which makes it incompatible with HTTPS. As a result, we had to keep the [www.bitball.club](http://www.bitball.club) accessible via HTTP only.
 
 However, this does not affect your security in any way, as the site does not require passwords or any other sensitive information.
 
