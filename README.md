@@ -71,10 +71,10 @@ NodeMCU ESP8266, Wemos ESP8266
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
-## STL (3d print folder)
+## STL (stl folder)
 This backing is essential for the correct operation of the weight sensor; without it, false triggers may occur. It’s important that the internal part of the scale does not come into contact with the forehead or any other surfaces.
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/3d%20print/sensorBoxAUX.png" height="300px"> 
+<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="300px">  
 
 ## Components
 
@@ -83,25 +83,29 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 ## From AliExpress.com
 
-<sup>[Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (You need a ball with an elastic band)</sup>  
+<sup>
 
-<sup>[Flashlight Headband Head Strap 18650](https://www.aliexpress.com/item/1005006141023865.html) (You need a headband with a mount for a power bank)</sup>  
+[Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (You need a ball with an elastic band) 
 
-<sup>[Weight Sensors + HX711](https://www.aliexpress.com/item/1005006293517345.html)</sup>  
+[Flashlight Headband Head Strap 18650](https://www.aliexpress.com/item/1005006141023865.html) (You need a headband with a mount for a power bank)
 
-<sup>[Power Bank (for 18650 Battery)](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
+[Weight Sensors + HX711](https://www.aliexpress.com/item/1005006293517345.html)  
 
-<sup>[ULN2003A](https://www.aliexpress.com/item/32556525207.html) - Optional for a more complex model</sup>  
+[Power Bank (for 18650 Battery)](https://www.aliexpress.com/item/1005002367815544.html)
 
-<sup>[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>  
+[ULN2003A](https://www.aliexpress.com/item/32556525207.html) (Optional for a more complex model) 
+
+[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) or [LOLIN D1 Mini](https://www.aliexpress.com/item/1005008132707012.html) (Suitable for STL case)
 
 You can also use these components:  
 
-<sup>[Head Straps Headband](https://www.aliexpress.com/item/1005005898038310.html)</sup>  
+[Head Straps Headband](https://www.aliexpress.com/item/1005005898038310.html) 
 
-<sup>[Nylon Elastic Band](https://www.aliexpress.com/item/1005002060362335.html) - Width 2.5cm</sup>  
+[Nylon Elastic Band](https://www.aliexpress.com/item/1005002060362335.html) (Width 2.5cm)
 
-<sup>[Elastic Band Round](https://www.aliexpress.com/item/4000977316378.html)</sup>
+[Elastic Band Round](https://www.aliexpress.com/item/4000977316378.html)
+
+</sup>
 
 
 ## 🚀 Web installer (recommended)
