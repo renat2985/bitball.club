@@ -74,7 +74,7 @@ NodeMCU ESP8266, Wemos ESP8266
 ## STL (stl folder)
 This backing is essential for the correct operation of the weight sensor; without it, false triggers may occur. It’s important that the internal part of the scale does not come into contact with the forehead or any other surfaces.
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="300px">  
+<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBox.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="200px">  
 
 ## Components
 
@@ -82,8 +82,6 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 
 ## From AliExpress.com
-
-<sup>
 
 [Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (You need a ball with an elastic band) 
 
@@ -104,8 +102,6 @@ You can also use these components:
 [Nylon Elastic Band](https://www.aliexpress.com/item/1005002060362335.html) (Width 2.5cm)
 
 [Elastic Band Round](https://www.aliexpress.com/item/4000977316378.html)
-
-</sup>
 
 
 ## 🚀 Web installer (recommended)

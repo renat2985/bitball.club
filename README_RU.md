@@ -72,15 +72,13 @@ NodeMCU ESP8266, Wemos ESP8266
 ## STL (stl папка)
 Эта подложка необходима для корректной работы датчика веса; без неё возможны ложные срабатывания. Важно, чтобы внутренняя часть весов не соприкасалась с лбом или другими поверхностями.
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBox.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="300px"> 
+<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBox.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="200px"> 
 
 ## Компоненты
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px">
 
 ## From AliExpress.com
-
-<sup>
 
 [Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (Вам нужен мяч с резинкой)  
 
@@ -101,8 +99,6 @@ NodeMCU ESP8266, Wemos ESP8266
 [Nylon Elastic Band](https://www.aliexpress.com/item/1005002060362335.html) (Ширина 2.5cm)
 
 [Elastic Band Round](https://www.aliexpress.com/item/4000977316378.html)
-
-</sup>
 
 ## 🚀 Web installer (recommended)
 
