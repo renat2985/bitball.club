@@ -91,17 +91,25 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 [Power Bank (for 18650 Battery)](https://www.aliexpress.com/item/1005002367815544.html)
 
-[ULN2003A](https://www.aliexpress.com/item/32556525207.html) (Optional for a more complex model) 
-
 [Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) (Suitable for STL case) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
-You can also use these components:  
+Optional for a more complex model: 
 
 [Head Straps Headband](https://www.aliexpress.com/item/1005005898038310.html) 
 
 [Nylon Elastic Band](https://www.aliexpress.com/item/1005002060362335.html) (Width 2.5cm)
 
 [Elastic Band Round](https://www.aliexpress.com/item/4000977316378.html)
+
+[ULN2003A](https://www.aliexpress.com/item/32556525207.html) 
+
+[USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
+
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
+
+[Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html)
+
+[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
 
 
 ## 🚀 Web installer (recommended)
