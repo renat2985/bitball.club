@@ -74,7 +74,7 @@ NodeMCU ESP8266, Wemos ESP8266
 ## STL (stl folder)
 This backing is essential for the correct operation of the weight sensor; without it, false triggers may occur. It’s important that the internal part of the scale does not come into contact with the forehead or any other surfaces.
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBox.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="200px">  
+<img src="https://github.com/renat2985/bitball.club/blob/main/stl/sensorBoxFinal.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/box.png" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/stl/cover.png" height="200px">  
 
 ## Components
 
@@ -93,7 +93,7 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 [ULN2003A](https://www.aliexpress.com/item/32556525207.html) (Optional for a more complex model) 
 
-[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) or [LOLIN D1 Mini](https://www.aliexpress.com/item/1005008132707012.html) (Suitable for STL case)
+[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) (Suitable for STL case) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
 You can also use these components:  
 

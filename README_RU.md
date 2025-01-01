@@ -90,7 +90,7 @@ NodeMCU ESP8266, Wemos ESP8266
 
 [ULN2003A](https://www.aliexpress.com/item/32556525207.html) (Опционально для более сложной модели) 
 
-[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html) или [LOLIN D1 Mini](https://www.aliexpress.com/item/1005008132707012.html) (потходит для STL корпуса)
+[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) (потходит для STL корпуса) или [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)
 
 Можно использовать еще эти компоненты:  
 
