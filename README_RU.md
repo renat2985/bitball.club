@@ -102,15 +102,13 @@ NodeMCU ESP8266, Wemos ESP8266
 
 [USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) и [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (Для кнопки)
 
-[Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html)
+[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html) или [Active Buzzer 5v](https://www.aliexpress.com/item/1005001731283936.html) (Для ULN2003A)
 
-[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
+## 🚀 Веб-установщик (рекомендуется)
 
-## 🚀 Web installer (recommended)
-
-### Go to the web installer and follow instructions.
+### Перейдите на веб-установщик и следуйте инструкциям.
 
 ## [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
 

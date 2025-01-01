@@ -105,11 +105,10 @@ Optional for a more complex model:
 
 [USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) and [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (For button)
 
-[Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html)
+[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html) or [Active Buzzer 5v](https://www.aliexpress.com/item/1005001731283936.html) (For ULN2003A)
 
-[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html)
 
 
 ## 🚀 Web installer (recommended)
