@@ -83,20 +83,25 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 ## From AliExpress.com
 
-<sup>https://www.aliexpress.com/item/1005004893349830.html - NodeMCU ESP8266</sup>
+<sup>[Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (You need a ball with an elastic band)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005006293517345.html - Weight Sensors + HX711</sup>
+<sup>[Flashlight Headband Head Strap 18650](https://www.aliexpress.com/item/1005006141023865.html) (You need a headband with a mount for a power bank)</sup>  
 
-<sup>https://www.aliexpress.com/item/32556525207.html - ULN2003A</sup>
+<sup>[Weight Sensors + HX711](https://www.aliexpress.com/item/1005006293517345.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005002060362335.html - Nylon Elastic Band</sup>
+<sup>[Power Bank (for 18650 Battery)](https://www.aliexpress.com/item/1005002367815544.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/4000977316378.html - Elastic Band Round</sup>
+<sup>[ULN2003A](https://www.aliexpress.com/item/32556525207.html) - Optional for a more complex model</sup>  
 
-<sup>https://www.aliexpress.com/item/1005002367815544.html - Power Bank (for 18650 Battery) </sup>
+<sup>[Wemos MINI](https://www.aliexpress.com/item/1005001621784437.html) or [NodeMCU ESP8266](https://www.aliexpress.com/item/1005004893349830.html)</sup>  
 
-<sup>https://www.aliexpress.com/item/1005005898038310.html - Head Straps Headband</sup>
+You can also use these components:  
 
+<sup>[Head Straps Headband](https://www.aliexpress.com/item/1005005898038310.html)</sup>  
+
+<sup>[Nylon Elastic Band](https://www.aliexpress.com/item/1005002060362335.html) - Width 2.5cm</sup>  
+
+<sup>[Elastic Band Round](https://www.aliexpress.com/item/4000977316378.html)</sup>
 
 
 ## 🚀 Web installer (recommended)
