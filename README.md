@@ -6,7 +6,7 @@
 
 This is an advanced version of the classic elastic ball game (Box Ball), designed to improve coordination, reaction speed, and agility. Unlike a standard ball, our device is equipped with smart electronics based on the ESP8266 microcontroller (NodeMCU). It can track the number of hits, measure hit force, and enable online competition via the [bitball.club](http://www.bitball.club) website with other users who have similar devices. Players can also track their progress in real-time.
 
-You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.gg/3986vwEdf5).
+You can build the device yourself or ask us to do it for you. To order a ready-made device, contact us via [Telegram](https://t.me/ESPiotDevice), [WhatsApp](https://chat.whatsapp.com/LZ9tSHqVLDEFJ41Vte2PZ1), [Skype](https://skype:renat2985?chat), or [Discord](https://discord.gg/3986vwEdf5).
 
 ## Key Features
 - **Hit Tracking**: The device uses built-in sensors to accurately record every hit on the ball.
