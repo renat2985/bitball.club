@@ -63,6 +63,7 @@ However, this does not affect your security in any way, as the site does not req
 
 ### Basic
 NodeMCU ESP8266, Wemos ESP8266
+On the NodeMCU board, the Flash button performs the same functions as the external button connected to D3. If needed, you can use it instead of the external button.
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
@@ -105,7 +106,7 @@ Optional for a more complex model:
 
 [USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) and [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (For button)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
 [Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html) or [Active Buzzer 5v](https://www.aliexpress.com/item/1005001731283936.html) (For ULN2003A)
 

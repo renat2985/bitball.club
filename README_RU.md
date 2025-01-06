@@ -60,6 +60,7 @@
 ## Схема подключения
 ### Простая
 NodeMCU ESP8266, Wemos ESP8266
+На плате NodeMCU кнопка Flash выполняет те же функции, что и внешняя кнопка, подключенная к D3. При необходимости вы можете использовать её вместо внешней кнопки.
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
@@ -102,7 +103,7 @@ NodeMCU ESP8266, Wemos ESP8266
 
 [USB Type A Connector Male](https://www.aliexpress.com/item/32924785370.html)
 
-[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html) и [Resistor 10k](https://www.aliexpress.com/item/1005007245355812.html) (Для кнопки)
+[Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
 [Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html) или [Active Buzzer 5v](https://www.aliexpress.com/item/1005001731283936.html) (Для ULN2003A)
 
