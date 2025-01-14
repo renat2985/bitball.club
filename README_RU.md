@@ -58,14 +58,14 @@
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/security.gif" width="500px">
 
 ## Схема подключения
-### Простая
-NodeMCU ESP8266, Wemos ESP8266
+
 На плате NodeMCU кнопка Flash выполняет те же функции, что и внешняя кнопка, подключенная к D3. При необходимости вы можете использовать её вместо внешней кнопки.
+
+### Простая
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Продвинутая
-NodeMCU ESP8266, Wemos ESP8266
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 

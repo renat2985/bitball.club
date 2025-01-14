@@ -61,14 +61,13 @@ However, this does not affect your security in any way, as the site does not req
 
 ## Wiring Diagrams
 
-### Basic
-NodeMCU ESP8266, Wemos ESP8266
 On the NodeMCU board, the Flash button performs the same functions as the external button connected to D3. If needed, you can use it instead of the external button.
+
+### Basic
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Advanced
-NodeMCU ESP8266, Wemos ESP8266
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
