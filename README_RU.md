@@ -81,7 +81,7 @@
 
 ## From AliExpress.com
 
-[Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (Вам нужен мяч с резинкой)  
+[Tennis Training Ball with Elastic String](https://www.aliexpress.com/item/1005008118081299.html) (Вам нужен именно теннисный мяч с резинкой. Мячи от Fight Ball не подходят, так как они слишком лёгкие)  
 
 [Flashlight Headband Head Strap 18650](https://www.aliexpress.com/item/1005006141023865.html) (Вам нужна резинка для головы с креплением для powerbank)
 

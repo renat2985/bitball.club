@@ -83,7 +83,7 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 ## From AliExpress.com
 
-[Boxing speed ball head mounted](https://www.aliexpress.com/item/1005007435780644.html) (You need a ball with an elastic band) 
+[Tennis Training Ball with Elastic String](https://www.aliexpress.com/item/1005008118081299.html) (You specifically need a tennis ball. Fight Ball balls are not suitable as they are either too light.)  
 
 [Flashlight Headband Head Strap 18650](https://www.aliexpress.com/item/1005006141023865.html) (You need a headband with a mount for a power bank)
 
