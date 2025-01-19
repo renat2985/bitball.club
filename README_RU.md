@@ -105,7 +105,7 @@
 
 [Push Button Switch](https://www.aliexpress.com/item/1005004159746274.html)
 
-[Active Buzzer Module for Arduino](https://www.aliexpress.com/item/32725486774.html) или [Active Buzzer 5v](https://www.aliexpress.com/item/1005001731283936.html) (Для ULN2003A)
+[Passive Buzzer Module for Arduino](https://www.aliexpress.com/item/1005005528181661.html) или [Passive Buzzer 5v](https://www.aliexpress.com/item/1005006260328559.html) (Для ULN2003A)
 
 ## 🚀 Веб-установщик (рекомендуется)
 
