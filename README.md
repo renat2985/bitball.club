@@ -65,9 +65,21 @@ On the NodeMCU board, the Flash button performs the same functions as the extern
 
 ### Basic
 
+| Pin            | GPIO  | Function    |
+|----------------|-------|---------------|
+| D1             | GPIO5 | SCK           |
+| D2             | GPIO4 | DT            |
+| D3             | GPIO0 | Button        |
+
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
 
 ### Advanced
+
+| Pin            | GPIO  | Function    |
+|----------------|-------|---------------|
+| D5             | GPIO14| Buzzer        |
+| D6             | GPIO12| Led           |
+| D7             | GPIO13| Vibro Motor   |
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematic.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemos.png" width="300px">
 
