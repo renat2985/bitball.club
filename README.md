@@ -65,10 +65,10 @@ On the NodeMCU board, the Flash button performs the same functions as the extern
 
 ### Basic
 
-| Pin            | GPIO  | Function    |
+| Pin            | GPIO  | Function      |
 |----------------|-------|---------------|
-| D1             | GPIO5 | SCK           |
-| D2             | GPIO4 | DT            |
+| D1             | GPIO5 | SCK (HX711)   |
+| D2             | GPIO4 | DT (HX711)    |
 | D3             | GPIO0 | Button        |
 
 <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicEasy.png" width="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/schematic/schematicWemosEasy.png" width="300px">
@@ -90,7 +90,7 @@ This backing is essential for the correct operation of the weight sensor; withou
 
 ## Components
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/components/canva.png" height="300px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.png" width="400px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.png" width="400px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/canva.JPG" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.jpg" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.jpg" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9749.jpg" height="200px">
 
 
 ## From AliExpress.com
