@@ -89,7 +89,7 @@
 
 ## Компоненты
 
-<img src="https://github.com/renat2985/bitball.club/blob/main/doc/canva.JPG" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.jpg" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.jpg" height="200px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9749.jpg" height="200px">
+<img src="https://github.com/renat2985/bitball.club/blob/main/doc/canva.jpg" height="100px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9764.JPG" height="100px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9752.JPG" height="100px"> <img src="https://github.com/renat2985/bitball.club/blob/main/doc/IMG_9749.JPG" height="100px">
 
 ## From AliExpress.com
 
@@ -119,12 +119,15 @@
 
 [Passive Buzzer Module for Arduino](https://www.aliexpress.com/item/1005005528181661.html) или [Passive Buzzer 5v](https://www.aliexpress.com/item/1005006260328559.html) (Для ULN2003A)
 
+---
+
 ## 🚀 Веб-установщик (рекомендуется)
 
 ### Перейдите на веб-установщик и следуйте инструкциям.
 
 ## [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
 
+---
 
 ## :battery: Donation
 
